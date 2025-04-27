@@ -15,10 +15,14 @@ Este proyecto busca facilitar la organización y seguimiento de torneos de video
 
 ## Diagramas UML
 ### Diagramas de caso de uso
-![Diagrama de casos de uso](diagrams/Diagrama%20de%20caso%20de%20uso.png)
+![Diagrama de casos de uso](diagrams/casos-usos.png)
 
 ### Diagrama de Clases
-![Diagrama de Clases](diagrams/Clase%20UML.png)
+![Diagrama de Clases](diagrams/clases.png)
 
+## Estructura del Proyecto
+torneo-esports-uml/ ├── src/ │ └── es/ │ └── empresa/ │ └── torneo/ │ └── Main.java ├── diagrams/ │ ├── casos-uso.png │ └── clases.png ├── README.md
 
+## Justificación del diseño
+Para el desarrollo de este proyectomse ha comenzado analizando los principales actores en el diagrama de casos de uso, para su posterior implmentación en el desarrollo del diagrama UML.
 ---
