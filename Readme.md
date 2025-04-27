@@ -11,6 +11,8 @@ Incluye:
 - Diagramas de clases.
 - Diseño estructural del sistema.
 
+link: https://github.com/SantiagoBerdecio/torneo-esports-uml.git
+
 Este proyecto busca facilitar la organización y seguimiento de torneos de videojuegos, optimizando procesos mediante un diseño bien estructurado.
 
 ## Diagramas UML
@@ -37,5 +39,9 @@ Para el desarrollo de este proyectomse ha comenzado analizando los principales a
     
     - Dependencia
     La relación de dependencia existe desde la clase TestingClass porque depende estrictamente de los métodos de las clases de GestiónJugador y GestiónEquipo.
+
+## Conclusiones
+A trvés de esta actividad he podido ver de primera mano como se empieza a desarrollar un proyecto desde sus cimientos para que tenga estructura, lógica y buen desarrollo. Identificando los actores, desarrollando los casos de usos y manteniendo las relaciones entre los casos de uso y los actores, he podido darle una lógica al sistema.
+En cuanto al diagrama de Clases (UML), he tratado y podido plasmar los conocimientos adquiridos en esta y otras asignaturas para el desarrollo apto del sistema. Es un buen punto de partida a la hora de tener un primer vistazo.
     
 ---
